@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://advsumangupta-mumbai.vercel.app/sitemap.xml
